@@ -7,7 +7,7 @@ How to create a code firts for MySql DB.
 Clone the repository.
 
 ```
-git clone 
+git clone https://github.com/Luizinfo/CodeFirstMySqlExample.git
 ```
 
 ### 📋 Running
